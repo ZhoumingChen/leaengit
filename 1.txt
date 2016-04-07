@@ -1,0 +1,18 @@
+name	score
+
+messi	76
+ronaldo	56
+henry	67
+totti	34
+
+
+Kobe	54
+Nashl	78
+Curry	55
+
+
+Einstein	89
+Newton		45
+Hawking		67
+Turing		34
+Nash2		67
