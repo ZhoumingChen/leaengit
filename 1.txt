@@ -16,3 +16,4 @@ Newton		45
 Hawking		67
 Turing		34
 Nash2		67
+#include<iostream>
