@@ -18,3 +18,4 @@ Turing		34
 Nash2		67
 #include<iostream>
 int main(){
+	printf('Hello')
