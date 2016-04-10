@@ -19,3 +19,4 @@ Nash2		67
 #include<iostream>
 int main(){
 	printf('Hello')
+}
