@@ -10,7 +10,6 @@ Kobe	54
 Nashl	78
 Curry	55
 
-
 Einstein	89
 Newton		45
 Hawking		67
@@ -20,4 +19,4 @@ Nash2		67
 int main(){
 	printf('Hello')
 }
-NEW BRANCH
+Merge Branch
